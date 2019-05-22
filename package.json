@@ -1,0 +1,14 @@
+{
+  "name": "weight-of-the-js",
+  "version": "1.0.0",
+  "workspaces": [
+    "compression",
+    "minification",
+    "hello-world",
+    "full-app"
+  ],
+  "repository": "git@github.com:Swiip/weight-of-the-js.git",
+  "author": "Swiip <matthieu.lux@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

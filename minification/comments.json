@@ -1,0 +1,8 @@
+{
+  "output": {
+    "comments": false,
+    "beautify": true
+  },
+  "mangle": false,
+  "compress": false
+}
