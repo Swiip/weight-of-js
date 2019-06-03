@@ -474,11 +474,6 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
   integrity sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
 
-filesize@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/filesize/-/filesize-4.1.2.tgz#fcd570af1353cea97897be64f56183adb995994b"
-  integrity sha512-iSWteWtfNcrWQTkQw8ble2bnonSl7YJImsn9OZKpE2E4IHhXI78eASpDYUljXZZdYj36QsEKjOs/CsiDqmKMJw==
-
 fs-readdir-recursive@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/fs-readdir-recursive/-/fs-readdir-recursive-1.1.0.tgz#e32fc030a2ccee44a6b5371308da54be0b397d27"
