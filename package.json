@@ -4,6 +4,7 @@
   "workspaces": [
     "compression",
     "minification",
+    "things",
     "hello-world",
     "full-app"
   ],
